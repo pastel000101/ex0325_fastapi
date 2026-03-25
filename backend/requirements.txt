@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+aiomysql
+sqlalchemy
+passlib==1.7.4
+pydantic-settings
+python-jose
+python-multipart
+cryptography
